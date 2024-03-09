@@ -1,16 +1,28 @@
-ME 366-Electro Mechanical System Design and Practice
-This is source code for Automated Slender Column Test
+## ME 366-Electro Mechanical System Design and Practice
 
-Group C7
-Team Members
-Md. Tanvir Rahman Pranto
+## Bangladesh University of Engineering and Technology
+
+# Automated Slender Column Test
+
+## Group C7
+
+### Team Members
+
+**Md. Tanvir Rahman Pranto**
+
 Student ID: 2010128
+<br/><br/>
 
-Md. Solaiman Hossain
+**Md. Solaiman Hossain**
+
 Student ID: 2010140
+<br/><br/>
 
-Mashrur Mahmood
+**Mashrur Mahmood**
+
 Student ID: 2010152
+<br/><br/>
 
-Tanzimur Rahman
+**Tanzimur Rahman**
+
 Student ID: 2010168
